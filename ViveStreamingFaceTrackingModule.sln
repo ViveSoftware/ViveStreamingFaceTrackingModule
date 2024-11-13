@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViveStreamingFaceTrackingModule", "ViveStreamingFaceTrackingModule\ViveStreamingFaceTrackingModule.csproj", "{524DAA02-E36C-4F28-BCD3-E2EB4F0611EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{524DAA02-E36C-4F28-BCD3-E2EB4F0611EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524DAA02-E36C-4F28-BCD3-E2EB4F0611EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524DAA02-E36C-4F28-BCD3-E2EB4F0611EE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{524DAA02-E36C-4F28-BCD3-E2EB4F0611EE}.Debug|x64.Build.0 = Debug|Any CPU
+		{524DAA02-E36C-4F28-BCD3-E2EB4F0611EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524DAA02-E36C-4F28-BCD3-E2EB4F0611EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524DAA02-E36C-4F28-BCD3-E2EB4F0611EE}.Release|x64.ActiveCfg = Release|Any CPU
+		{524DAA02-E36C-4F28-BCD3-E2EB4F0611EE}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06E0C360-C46F-4D6E-93E4-4DD7F5E76AF0}
+	EndGlobalSection
+EndGlobal
