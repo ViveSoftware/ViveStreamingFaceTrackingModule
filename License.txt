@@ -33,7 +33,10 @@ in the documentation and/or other materials provided with the distributions.
 promote products derived from this software without specific prior written
 permission.
 
-This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+This License does not grant permission to use the trade names, trademarks, 
+service marks, or product names of the Licensor, except as required for reasonable 
+and customary use in describing the origin of the Work and reproducing the content 
+of the NOTICE file.
 
 THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
