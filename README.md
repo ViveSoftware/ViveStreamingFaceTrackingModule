@@ -7,5 +7,5 @@ Streaming facial tracking data from VIVE Focus Vision, VIVE XR Elite or VIVE Foc
 
 Note:
 * If avatar's face expression doesn't work, try Reset Config in VRChat in Dial Menu > OSC > Reset Config
-* Minimum required version: Vive Business Streaming v1.15.5 or Vive Streaming Hub v1.6.6.
-* Make sure to enable 'Streaming avatar data to VRChat via OSC' in Vive Console.
+* Minimum required version: VIVE Business Streaming v1.15.5 or VIVE Hub v1.6.6.
+* Make sure to enable 'Streaming avatar data to VRChat via OSC' in VIVE Hub Console.
