@@ -1,5 +1,5 @@
 # ViveStreamingFaceTrackingModule
-Streaming facial tracking data from Vive Focus 3 and Vive XR Elite to VRCFT's Unified Expressions.
+Streaming facial tracking data from VIVE Focus Vision, VIVE XR Elite or VIVE Focus 3 to VRCFT's Unified Expressions.
 # Instruction
 1. Download the module from https://github.com/ViveSoftware/ViveStreamingFaceTrackingModule/releases
 2. Install the module to VRCFT
